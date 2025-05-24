@@ -1,0 +1,19 @@
+{
+  "menu": {
+    "home": "หน้าหลัก",
+    "leaveNotification": "การแจ้งลาหยุด",
+    "leaveHistory": "ประวัติการลา",
+    "editProfile": "แก้ไขโปรไฟล์",
+    "logout": "ออกจากระบบ"
+  },
+    "dashboard": {
+    "title": "หน้าหลัก",
+    "vacationLeaves": "ลาพักร้อน",
+    "sickLeaves": "ลาป่วย",
+    "personalLeaves": "ลากิจ",
+    "newLeaveRequest": "ขอการลาใหม่",
+    "quickActions": "ทางลัด",
+    "requestLeave": "ขอลา",
+    "viewLeaveHistory": "ดูประวัติการลา"
+  }
+}

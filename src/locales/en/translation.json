@@ -1,0 +1,20 @@
+{  
+  "menu": {
+    "home": "Home",
+    "leaveNotification": "Leave Notification",
+    "leaveHistory": "Leave History",
+    "editProfile": "Edit Profile",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "title": "Home",
+    "vacationLeaves": "Vacation Leaves",
+    "sickLeaves": "Sick Leaves",
+    "personalLeaves": "Personal Leaves",
+    "newLeaveRequest": "New Leave Request",
+    "quickActions": "Quick Actions",
+    "requestLeave": "Request Leave",
+    "viewLeaveHistory": "View Leave History"
+  }  
+}
+
